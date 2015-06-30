@@ -2,4 +2,4 @@ language: python
 python:
   - 2.7
 install: true
-script: cat big24.txt
+script: cat big5.txt
